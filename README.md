@@ -19,3 +19,5 @@
 * etc
 
 1. [progress bar](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/etc/progressbar.sh)
+1. [color](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/etc/color.sh)
+1. [ascii art](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/etc/ascii_art1.sh)
