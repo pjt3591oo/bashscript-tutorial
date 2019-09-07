@@ -72,9 +72,17 @@ echo ${array[@]} # 전체출력
 
 unset array      # 전체 지우기
 echo ${array[@]} # 전체출력
+
+lines1=(`cat "log.log"`)                 
+echo ${lines1[@]}
+
+lines2=(`tail "log.log"`)                 
+echo ${lines2[@]}
 ```
 
 `array`으로 배열 선언이 가능하며 `unset`은 특정 요소및 배열을 지울 수 있다. 
+
+파일을 읽어서 해당 내용을 array 형태로 만들 수 있다.
 
 * 예약어 및 환경변수
 

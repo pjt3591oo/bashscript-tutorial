@@ -13,3 +13,9 @@ echo ${array[@]} # 전체출력
 
 unset array      # 전체 지우기
 echo ${array[@]} # 전체출력
+
+lines1=(`cat "log.log"`)                 
+echo ${lines1[@]}
+
+lines2=(`tail "log.log"`)                 
+echo ${lines2[@]}
