@@ -4,13 +4,13 @@
 
 * chapter 1: 기초기술
 
-1. [basic](#)
-2. [variable](#)
-3. [condition](#)
-4. [loop](#)
-5. [funtion](#)
-6. [debug](#)
-7. [style](#)
+1. [basic](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/1.%20basic) - 작성완료
+2. [variable](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/2.%20variable) - 작성완료 
+3. [condition](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/3.%20condition) - 작성중
+4. [loop](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/4.%20loop)
+5. [funtion](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/5.%20function)
+6. [debug](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/6.%20debug)
+7. [style](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/7.%20style)
 
 * chapter 2: 중급기술
 
