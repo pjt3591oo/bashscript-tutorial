@@ -7,7 +7,7 @@
 1. [basic](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/1.%20basic) - 작성완료
 2. [variable](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/2.%20variable) - 작성완료 
 3. [condition](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/3.%20condition) - 작성완료
-4. [loop](https://github.com/pjt3591oo /bashscript-tutorial/tree/master/4.%20loop) - 작성완료
+4. [loop](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/4.%20loop) - 작성완료
 5. [funtion](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/5.%20function)
 6. [debug](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/6.%20debug)
 7. [style](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/7.%20style)
