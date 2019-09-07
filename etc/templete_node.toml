@@ -1,3 +1,4 @@
+  
 [parity]
 chain = "chain.json" # chain 정보
 base_path = "./DATA_STORE" # 정보를 어디에 저장할 지
@@ -18,7 +19,8 @@ port = 8455
 [account]
 password = ["node.pwds"]
 [mining]
-#engine_signer = $$$[account] # 마이닝 account POA 이기 때문에 chain.json에서 validator에 명시된 account를 넣는다. 마이닝을 하지 않는 노드라면 해당 부분 #으로 주석처리
+#engine_signer = +ACCOUNT1 # 마이닝 account POA 이기 때문에 chain.json에서 validator에 명시된 account를 넣는다. 마이닝을 하지 않는 노드라면 해당 부분 #으로 주석처리
+#engine_signer = +ACCOUNT2 # 마이닝 account POA 이기 때문에 chain.json에서 validator에 명시된 account를 넣는다. 마이닝을 하지 않는 노드라면 해당 부분 #으로 주석처리
 reseal_on_txs = "none"
 [dapps]
 disable = false
