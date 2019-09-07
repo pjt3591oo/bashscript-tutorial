@@ -49,3 +49,17 @@ for i in {1..5}; do
 done
 ```
 
+1부터 5까지 1씩 증가하면서 실행
+
+단, 다음과 같은 형태로 반복문 호출 불가능
+
+```bash
+start=0
+end=10
+
+for i in {$start...$end}; do 
+  echo "$i"
+done
+```
+
+이 경우는 앞의 c 스타일 형태로 반복문 생성가능
