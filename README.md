@@ -4,15 +4,17 @@
 
 * chapter 1: 기초기술
 
-1. [basic](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/1.%20basic) - 작성완료
-2. [variable](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/2.%20variable) - 작성완료 
-3. [condition](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/3.%20condition) - 작성완료
-4. [loop](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/4.%20loop) - 작성완료
-5. [funtion](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/5.%20function) - 작성완료
-6. [debug](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/6.%20debug) - 작성중
-7. [style](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/7.%20style)
+1. [basic](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/chapter1/1.%20basic) - 작성완료
+2. [variable](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/chapter1/2.%20variable) - 작성완료 
+3. [condition](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/chapter1/3.%20condition) - 작성완료
+4. [loop](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/chapter1/4.%20loop) - 작성완료
+5. [funtion](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/chapter1/5.%20function) - 작성완료
+6. [debug](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/chapter1/6.%20debug) - 작성중
+7. [style](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/chapter1/7.%20style)
 
 * chapter 2: 중급기술
+
+1. [system info](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/chapter2/1.%20systeminfo)
 
 * chapter 3: 고급기술
 
