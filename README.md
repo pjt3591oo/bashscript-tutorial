@@ -25,3 +25,4 @@
 3. [ascii art](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/etc/ascii_art1.sh)
 4. [database import](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/etc/database_dump.sh)
 5. [auto keystore generator](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/etc/auto_keystore_gen.sh)
+5. [ssh](https://github.com/pjt3591oo/bashscript-tutorial/tree/master/etc/ssh.sh)
